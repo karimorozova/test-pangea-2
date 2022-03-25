@@ -1,6 +1,6 @@
 export const state = () => ({
   fullName: 'AnyName',
-  money: 100,
+  money: 10000,
   purchasedProducts: []
 });
 
